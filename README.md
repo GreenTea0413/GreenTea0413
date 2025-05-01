@@ -2,7 +2,8 @@
 
 <p>
   🌱 현재 프론트엔드와 백엔드를 같이 공부하며 발전하고 있습니다!<br>
-  📫 <strong>연락처:</strong> <a href="mailto:kimbosung222@naver.com">kimbosung222@naver.com</a>
+  📫 <strong>연락처:</strong> <a href="mailto:kimbosung222@naver.com">kimbosung222@naver.com</a><br>
+  📖 <strong>블로그:</strong> <a href="https://bbosung.tistory.com/">https://bbosung.tistory.com/</a>
 </p>
 
 
