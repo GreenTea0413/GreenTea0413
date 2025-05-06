@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=😄%20보성GitHub%20💻&fontSize=50&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=2ecc71,d1f7c4&height=100&section=header&text=😄%20보성GitHub%20💻&fontSize=50&fontAlignY=50)
+
 
 <p>
   🌱 현재 프론트엔드와 백엔드를 같이 공부하며 발전하고 있습니다!<br>
@@ -36,7 +37,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" height="28"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="28"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="28"/>
 </p>
+
 
 
 
