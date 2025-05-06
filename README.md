@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=2ecc71&height=100&section=header&text=😄%20보성GitHub%20💻&fontSize=50&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=2ecc71&height=100&section=header&text=😄%20보성GitHub%20💻&fontSize=50&fontAlignY=50&textColor=ffffff)
 
 
 
