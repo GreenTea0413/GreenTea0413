@@ -1,9 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=2ecc71&height=100&section=header&text=😄%20보성GitHub%20💻&fontSize=50&fontAlignY=50&textColor=ffffff)
-
-
-
 <p>
-  🌱 현재 프론트엔드와 백엔드를 같이 공부하며 발전하고 있습니다!<br>
+  현재 프론트엔드와 백엔드를 같이 공부하며 발전하고 있습니다!  
+  여러가지 경험을 겪는 것과 공부하는 것을 중요하게 생각합니다!  
+  작은 배움도 기록으로 남기고, 함께 성장하는 개발자가 되고 싶습니다!<br><br>
   📫 <strong>연락처:</strong> <a href="mailto:kimbosung22@naver.com">kimbosung222@naver.com</a><br>
   📖 <strong>블로그:</strong> <a href="https://bbosung.tistory.com">https://bbosung.tistory.com/</a>
 </p>
@@ -34,7 +32,6 @@
 </p>
 
 
-
 <h3>🖥️ 서버 (Backend)</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" height="28"/>
@@ -50,5 +47,18 @@
   </a>
 </div>
 
-<hr>
+
+## 📽️ 프로젝트
+
+1. WonnaBE 7
+  - 주제: 금융 자산 분석 및 금융상품 추천 서비스
+  - 설명: 지금의 나에서, 워너비 나로! 실천형 자산 코칭 서비스 
+  - 프로젝트 역할
+    - 프론트엔드 UI/UX 설계
+    - FSD 폴더 구조를 통한 빠른 설계 
+   
+2. 
+## 🏆 수상 경력
+1. 
+
 
