@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Fullstack+Developer;Frontend+%2B+Backend+Explorer;Always+Learning+New+Things)](https://git.io/typing-svg)
+# 안녕하세요! 👋
+
 <p>
   현재 프론트엔드와 백엔드를 같이 공부하며 발전하고 있습니다!  <br>
   여러가지 경험을 겪는 것과 공부하는 것을 중요하게 생각합니다!  <br>
@@ -47,16 +50,67 @@
   </a>
 </div>
 
-
 ## 📽️ 프로젝트
 
-1. WonnaBE 7
-  - 주제: 금융 자산 분석 및 금융상품 추천 서비스
-  - 설명: 지금의 나에서, 워너비 나로! 실천형 자산 코칭 서비스 
-  - 프로젝트 역할
-    - 프론트엔드 UI/UX 설계
-    - FSD 폴더 구조를 통한 빠른 설계 
-   
+### 🌐 프론트엔드
+1. **투표 커뮤니티 서비스** (2023.09.03 ~ 2024.05.30)  
+- **설명:** 게시글마다 가볍게 투표할 수 있는 커뮤니티 서비스  
+   <details>
+     <summary>역할</summary>
+
+     - React / React Native 기반 **UI·UX 설계**  
+     - **FCM 푸시 알림** 기능 구현  
+     - **WebSocket** 활용한 1:1 쪽지 기능  
+
+   </details>
+
+2. **우산 공유 플랫폼** (2023.09.20 ~ 2023.11.24)  
+- **설명:** QR 기반 교내 우산 공유 서비스  
+   <details>
+     <summary>역할</summary>
+
+     - React Native **UI·UX 설계**  
+     - 아이디어 기획  
+
+   </details>
+
+3. **SmileHub** (2024.07.12 ~ 2024.08.28)  
+- **설명:** 하루 한 번 웃음을 통해 기분 좋은 시작을 돕는 웰빙 서비스  
+   <details>
+     <summary>역할</summary>
+
+     - React 기반 **UI·UX 설계**  
+     - **face-api.js** 활용, 감정 퍼센트 시각화  
+
+   </details>
+
+4. **WonnaBE 7** (2025.07.09 ~ 2025.08.21)  
+- **설명:** 금융 자산 분석 및 금융상품 추천 서비스 — "지금의 나에서, 워너비 나로!"  
+   <details>
+     <summary>역할</summary>
+
+     - **FSD 구조 설계**  
+     - **Pinia 상태관리** 활용, 서버 데이터 캐싱/갱신  
+     - Vue 기반 전체적인 **UI·UX 설계**  
+
+   </details>
+
+---
+
+### 🖥️ 백엔드
+1. **모의투자 프로젝트** (2025.06.09 ~ 진행 중)  
+- **설명:** 가상 화폐로 실제 투자처럼 연습할 수 있는 모의투자 서비스  
+   <details>
+     <summary>역할</summary>
+
+     - **한국투자 OPEN API 연동**  
+     - **환율 API 연동**  
+     - 장 시작/마감 시 실시간 데이터 **WebSocket 전송**  
+
+   </details> 
+       
 ## 🏆 수상 경력
 
+1. 창의융합형 인재양성 공유협업 페스티발 공모정 ICT 솔루션 (코딩) - 대상
+2. KB IT's Your Life 6기 최종프로젝트 - 최우수상
 
