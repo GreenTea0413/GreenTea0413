@@ -1,6 +1,6 @@
 <p>
-  현재 프론트엔드와 백엔드를 같이 공부하며 발전하고 있습니다!  
-  여러가지 경험을 겪는 것과 공부하는 것을 중요하게 생각합니다!  
+  현재 프론트엔드와 백엔드를 같이 공부하며 발전하고 있습니다!  <br>
+  여러가지 경험을 겪는 것과 공부하는 것을 중요하게 생각합니다!  <br>
   작은 배움도 기록으로 남기고, 함께 성장하는 개발자가 되고 싶습니다!<br><br>
   📫 <strong>연락처:</strong> <a href="mailto:kimbosung22@naver.com">kimbosung222@naver.com</a><br>
   📖 <strong>블로그:</strong> <a href="https://bbosung.tistory.com">https://bbosung.tistory.com/</a>
@@ -57,8 +57,6 @@
     - 프론트엔드 UI/UX 설계
     - FSD 폴더 구조를 통한 빠른 설계 
    
-2. 
 ## 🏆 수상 경력
-1. 
 
 
