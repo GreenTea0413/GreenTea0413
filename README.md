@@ -15,7 +15,7 @@
 ## 📄 학력 및 활동 이력
 - 🎓 **계명대학교 컴퓨터공학과 졸업 예정 (2019 ~ 2025)**
 - 🏆 정보처리기사 자격증
-- 🏆 **KB IT’s Your Life 6기 수료**
+- 🏆 **KB IT's Your Life 6기 수료**
   - 분기별 **우수 훈련생** 선정  
   - 전체 수료생 중 **상위 20% 최종 우수 수료생**
 - 🦁 **멋쟁이 사자처럼 12기 운영진 수료**
@@ -32,23 +32,29 @@
 <h3>🌐 웹/앱 (Frontend)</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="28"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="28"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="28"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="28"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="28"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="28"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="28"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" height="28"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="28"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" height="28"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" height="28"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" height="28"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="28"/>
+  <img src="https://img.shields.io/badge/Zustand-452024?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" height="28"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack Query" height="28"/>
+  <img src="https://img.shields.io/badge/Pinia-42b983?style=for-the-badge&logo=vue.js&logoColor=white" alt="Pinia" height="28"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" height="28"/>
 </p>
 
 
 <h3>🖥️ 서버 (Backend)</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" height="28"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="28"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" height="28"/>
+  <img src="https://img.shields.io/badge/MyBatis-FF4154?style=for-the-badge&logo=mysql&logoColor=white" alt="MyBatis" height="28"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="28"/>
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSocket" height="28"/>
+  <img src="https://img.shields.io/badge/Scheduler-FF6B35?style=for-the-badge&logo=clockify&logoColor=white" alt="Scheduler" height="28"/>
 </p>
 
 
@@ -61,39 +67,24 @@
 
 ## 📽️ 프로젝트
 
+### 💡 개인 사이드 프로젝트
+
+1. **가챠픽 (GachaPick)** - 공정한 랜덤 선택 & 팀 나누기 도구  
+   🔗 [https://gacha-picker.vercel.app/](https://gacha-picker.vercel.app/)
+   - **설명:** 학교, 회사, 동호회에서 사용하는 재미있는 가챠머신 스타일의 랜덤 뽑기 & 팀 나누기 도구
+   - **기술:** Next.js 16, TypeScript, Tailwind CSS, Zustand, Framer Motion
+   - **특징:** 🎲 가챠머신 애니메이션 / 👥 공정한 팀 분배 / 💾 결과 저장·다운로드 / 🌈 네온 다크 디자인
+
+2. **로또 시뮬레이터** - 로또 당첨 확률 체험  
+   🔗 [https://lottosimm.vercel.app/](https://lottosimm.vercel.app/)
+   - **설명:** 로또 번호 생성 및 당첨 확률을 직관적으로 체험할 수 있는 시뮬레이터
+   - **기술:** React, TypeScript, Tailwind CSS
+   - **특징:** 📊 실시간 통계 / 🎰 당첨 시뮬레이션 / 📈 직관적 데이터 시각화
+
+---
+
 ### 🌐 프론트엔드
-1. **투표 커뮤니티 서비스** (2023.09.03 ~ 2024.05.30)  
-- **설명:** 게시글마다 가볍게 투표할 수 있는 커뮤니티 서비스  
-   <details>
-     <summary>역할</summary>
-
-     - React / React Native 기반 **UI·UX 설계**  
-     - **FCM 푸시 알림** 기능 구현  
-     - **WebSocket** 활용한 1:1 쪽지 기능  
-
-   </details>
-
-2. **우산 공유 플랫폼** (2023.09.20 ~ 2023.11.24)  
-- **설명:** QR 기반 교내 우산 공유 서비스  
-   <details>
-     <summary>역할</summary>
-
-     - React Native **UI·UX 설계**  
-     - 아이디어 기획  
-
-   </details>
-
-3. **SmileHub** (2024.07.12 ~ 2024.08.28)  
-- **설명:** 하루 한 번 웃음을 통해 기분 좋은 시작을 돕는 웰빙 서비스  
-   <details>
-     <summary>역할</summary>
-
-     - React 기반 **UI·UX 설계**  
-     - **face-api.js** 활용, 감정 퍼센트 시각화  
-
-   </details>
-
-4. **WonnaBE 7** (2025.07.09 ~ 2025.08.21)  
+1. **WonnaBE 7** (2025.07.09 ~ 2025.08.21)  
 - **설명:** 금융 자산 분석 및 금융상품 추천 서비스 — "지금의 나에서, 워너비 나로!"  
    <details>
      <summary>역할</summary>
@@ -104,10 +95,41 @@
 
    </details>
 
+2. **SmileHub** (2024.07.12 ~ 2024.08.28)  
+- **설명:** 하루 한 번 웃음을 통해 기분 좋은 시작을 돕는 웰빙 서비스  
+   <details>
+     <summary>역할</summary>
+
+     - React 기반 **UI·UX 설계**  
+     - **face-api.js** 활용, 감정 퍼센트 시각화  
+
+   </details>
+
+3. **투표 커뮤니티 서비스** (2023.09.03 ~ 2024.05.30)  
+- **설명:** 게시글마다 가볍게 투표할 수 있는 커뮤니티 서비스  
+   <details>
+     <summary>역할</summary>
+
+     - React / React Native 기반 **UI·UX 설계**  
+     - **FCM 푸시 알림** 기능 구현  
+     - **WebSocket** 활용한 1:1 쪽지 기능  
+
+   </details>
+
+4. **우산 공유 플랫폼** (2023.09.20 ~ 2023.11.24)  
+- **설명:** QR 기반 교내 우산 공유 서비스  
+   <details>
+     <summary>역할</summary>
+
+     - React Native **UI·UX 설계**  
+     - 아이디어 기획  
+
+   </details>
+
 ---
 
 ### 🖥️ 백엔드
-1. **모의투자 프로젝트** (2025.06.09 ~ 진행 중)  
+1. **모의투자 프로젝트** (2025.05.15 ~ 2025.07.30)  
 - **설명:** 가상 화폐로 실제 투자처럼 연습할 수 있는 모의투자 서비스  
    <details>
      <summary>역할</summary>
@@ -120,6 +142,10 @@
        
 ## 🏆 수상 경력
 
-1. 창의융합형 인재양성 공유협업 페스티발 공모정 ICT 솔루션 (코딩) - 대상
-2. KB IT's Your Life 6기 최종프로젝트 - 최우수상
-
+- **2025.09** | 2025년 KB IT's Your Life 해커톤 - 장려상
+- **2025.08** | KB IT's Your Life 6기 종합실무 프로젝트 - 최우수상 (WonnaBE)
+- **2024.12** | 정보처리기사 자격증
+- **2024.11** | 제 8회 4차산업혁명 인재양성 공유협업 페스티벌 ICT솔루션 부문 - 우수상(3등)
+- **2024.08** | 대경권 SW해커톤 경진대회 - 금상(2등)
+- **2024.05** | 2024년 한국정보기술학회 하계종합학술대회 - 동상
+- **2023.11** | 제 7차 4차산업혁명 인재양성 공유협업 페스티벌 ICT솔루션 부문 - 대상(1등)
