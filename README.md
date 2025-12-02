@@ -45,7 +45,6 @@
   <img src="https://img.shields.io/badge/Zustand-452024?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" height="28"/>
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack Query" height="28"/>
   <img src="https://img.shields.io/badge/Pinia-42b983?style=for-the-badge&logo=vue.js&logoColor=white" alt="Pinia" height="28"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" height="28"/>
 </p>
 
 
