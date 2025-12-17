@@ -25,12 +25,6 @@
 
 ## 🚀 기술 스택
 
-<h3>🎮 게임 개발</h3>
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity" height="28"/>
-  <img src="https://img.shields.io/badge/GameMaker_Studio-8DCA09?style=for-the-badge&logo=gamemaker-studio&logoColor=white" alt="GameMaker Studio" height="28"/>
-</p>
-
 <h3>🌐 웹/앱 (Frontend)</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="28"/>
@@ -54,8 +48,6 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" height="28"/>
   <img src="https://img.shields.io/badge/MyBatis-FF4154?style=for-the-badge&logo=mysql&logoColor=white" alt="MyBatis" height="28"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="28"/>
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSocket" height="28"/>
-  <img src="https://img.shields.io/badge/Scheduler-FF6B35?style=for-the-badge&logo=clockify&logoColor=white" alt="Scheduler" height="28"/>
 </p>
 
 
