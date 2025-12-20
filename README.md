@@ -61,17 +61,17 @@
 
 ### 💡 개인 사이드 프로젝트
 
-1. **가챠픽 (GachaPick)** - 공정한 랜덤 선택 & 팀 나누기 도구  
-   🔗 [https://gacha-picker.vercel.app/](https://gacha-picker.vercel.app/)
-   - **설명:** 학교, 회사, 동호회에서 사용하는 재미있는 가챠머신 스타일의 랜덤 뽑기 & 팀 나누기 도구
-   - **기술:** Next.js 16, TypeScript, Tailwind CSS, Zustand, Framer Motion
-   - **특징:** 🎲 가챠머신 애니메이션 / 👥 공정한 팀 분배 / 💾 결과 저장·다운로드 / 🌈 네온 다크 디자인
-
-2. **로또 시뮬레이터** - 로또 당첨 확률 체험  
+1. **로또 시뮬레이터** - 로또 당첨 확률 체험  
    🔗 [https://lottosimm.vercel.app/](https://lottosimm.vercel.app/)
    - **설명:** 로또 번호 생성 및 당첨 확률을 직관적으로 체험할 수 있는 시뮬레이터
    - **기술:** React, TypeScript, Tailwind CSS
-   - **특징:** 📊 실시간 통계 / 🎰 당첨 시뮬레이션 / 📈 직관적 데이터 시각화
+   - **특징:** 실시간 통계 / 당첨 시뮬레이션 / 직관적 데이터 시각화 / 직접 사지않고 번호만 저장하여 몇등인지 볼 수 있는 재미
+  
+2. **Pixeora** - 무료 픽셀 아트 에디터
+   🔗 [https://pixeora.vercel.app/](https://pixeora.vercel.app/)
+   - **설명:** 브라우저에서 바로 사용할 수 있는 무료 픽셀 아트 에디터
+   - **기술:** Next.js, TypeScript, Tailwind CSS, Zustand
+   - **특징:** 프로젝트 저장/불러오기 (최대 10개) / PNG/JPG 내보내기 (1x~8x 스케일) / 직관적인 그리기 도구 (펜, 지우개, 채우기, 스포이드) / 색상 팔레트 저장 / Undo/Redo 및 줌/팬 기능
 
 ---
 
