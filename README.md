@@ -66,7 +66,7 @@
    - **기술:** React, TypeScript, Tailwind CSS
    - **특징:** 실시간 통계 / 당첨 시뮬레이션 / 직관적 데이터 시각화 / 직접 사지않고 번호만 저장하여 몇등인지 볼 수 있는 재미
   
-2. **Pixeora** - 무료 픽셀 아트 에디터 🔗 [https://pixeora.vercel.app/](https://pixeora.vercel.app/)
+2. **Pixeora** - 무료 픽셀 아트 에디터 🔗 [https://pixelket.vercel.app/](https://pixelket.vercel.app/)
    - **설명:** 브라우저에서 바로 사용할 수 있는 무료 픽셀 아트 에디터
    - **기술:** Next.js, TypeScript, Tailwind CSS, Zustand
    - **특징:** 프로젝트 저장/불러오기 (최대 10개) / PNG/JPG 내보내기 (1x~8x 스케일) / 직관적인 그리기 도구 (펜, 지우개, 채우기, 스포이드) / 색상 팔레트 저장 / Undo/Redo 및 줌/팬 기능
