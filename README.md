@@ -59,8 +59,9 @@
 
 ## 📽️ 프로젝트
 
-### 💡 개인 사이드 프로젝트
+### 💡 개인 사이드 프로젝트(claude ai 사용)
 
+현재 동행복권 api 변경으로 대기 중
 1. **로또 시뮬레이터** - 로또 당첨 확률 체험  🔗 [https://lottosimm.vercel.app/](https://lottosimm.vercel.app/)
    - **설명:** 로또 번호 생성 및 당첨 확률을 직관적으로 체험할 수 있는 시뮬레이터
    - **기술:** React, TypeScript, Tailwind CSS
