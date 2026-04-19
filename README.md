@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Fullstack+Developer;Frontend+%2B+Backend+Explorer;Always+Learning+New+Things)](https://git.io/typing-svg)
 # 안녕하세요! 👋
 
 <p>
