@@ -51,12 +51,6 @@
 </p>
 
 
-<div align="left" style="display: flex; gap: 10px;">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=noeyoes&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/GreenTea0413" width="340" />
-  </a>
-</div>
-
 ## 📽️ 프로젝트
 
 ### 💡 개인 사이드 프로젝트(claude ai 사용)
