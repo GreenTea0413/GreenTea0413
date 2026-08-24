@@ -11,18 +11,6 @@
 
 ---
 
-## 📄 학력 및 활동 이력
-- 🎓 **계명대학교 컴퓨터공학과 졸업 (2019 ~ 2025)**
-- 🦁 **멋쟁이 사자처럼 11기**
-- 🦁 **멋쟁이 사자처럼 12기 운영진 수료**
-- 🏆 **KB IT's Your Life 6기 수료**
-  - 분기별 **우수 훈련생** 선정
-  - 전체 수료생 중 **상위 20% 최종 우수 수료생**
-- 🏆 **정보처리기사 자격증 (2024.12)**
-- 🏅 **ADsP 자격증 (2026.03)**
-
-
-
 ## 🚀 기술 스택
 
 <h3>🌐 웹/앱 (Frontend)</h3>
@@ -50,80 +38,20 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="28"/>
 </p>
 
+<div align="center">
+<img src="https://ghchart.rshah.org/4FC08D/GreenTea0413" width="100%" alt="GitHub contribution graph" />
+</div>
 
-## 📽️ 프로젝트
+## 📄 학력 및 활동 이력
+- 🎓 **계명대학교 컴퓨터공학과 졸업 (2019 ~ 2025)**
+- 🦁 **멋쟁이 사자처럼 11기**
+- 🦁 **멋쟁이 사자처럼 12기 운영진 수료**
+- 🏆 **KB IT's Your Life 6기 수료**
+  - 분기별 **우수 훈련생** 선정
+  - 전체 수료생 중 **상위 20% 최종 우수 수료생**
+- 🏆 **정보처리기사 자격증 (2024.12)**
+- 🏅 **ADsP 자격증 (2026.03)**
 
-### 💡 개인 사이드 프로젝트(claude ai 사용)
-
-1. **로또 시뮬레이터** - 로또 당첨 확률 체험  🔗 [https://lottosimm.vercel.app/](https://lottosimm.vercel.app/)
-   - **설명:** 로또 번호 생성 및 당첨 확률을 직관적으로 체험할 수 있는 시뮬레이터
-   - **기술:** React, TypeScript, Tailwind CSS
-   - **특징:** 실시간 통계 / 당첨 시뮬레이션 / 직관적 데이터 시각화 / 직접 사지않고 번호만 저장하여 몇등인지 볼 수 있는 재미
-  
-2. **Pixelket** - 무료 픽셀 아트 에디터 🔗 [https://pixelket.vercel.app/](https://pixelket.vercel.app/)
-   - **설명:** 브라우저에서 바로 사용할 수 있는 무료 픽셀 아트 에디터
-   - **기술:** Next.js, TypeScript, Tailwind CSS, Zustand
-   - **특징:** 프로젝트 저장/불러오기 (최대 10개) / PNG/JPG 내보내기 (1x~8x 스케일) / 직관적인 그리기 도구 (펜, 지우개, 채우기, 스포이드) / 색상 팔레트 저장 / Undo/Redo 및 줌/팬 기능
-
----
-
-### 🌐 프론트엔드
-1. **WonnaBE 7** (2025.07.09 ~ 2025.08.21)  
-- **설명:** 금융 자산 분석 및 금융상품 추천 서비스 — "지금의 나에서, 워너비 나로!"  
-   <details>
-     <summary>역할</summary>
-
-     - **FSD 구조 설계**  
-     - **Pinia 상태관리** 활용, 서버 데이터 캐싱/갱신  
-     - Vue 기반 전체적인 **UI·UX 설계**  
-
-   </details>
-
-2. **SmileHub** (2024.07.12 ~ 2024.08.28)  
-- **설명:** 하루 한 번 웃음을 통해 기분 좋은 시작을 돕는 웰빙 서비스  
-   <details>
-     <summary>역할</summary>
-
-     - React 기반 **UI·UX 설계**  
-     - **face-api.js** 활용, 감정 퍼센트 시각화  
-
-   </details>
-
-3. **투표 커뮤니티 서비스** (2023.09.03 ~ 2024.05.30)  
-- **설명:** 게시글마다 가볍게 투표할 수 있는 커뮤니티 서비스  
-   <details>
-     <summary>역할</summary>
-
-     - React / React Native 기반 **UI·UX 설계**  
-     - **FCM 푸시 알림** 기능 구현  
-     - **WebSocket** 활용한 1:1 쪽지 기능  
-
-   </details>
-
-4. **우산 공유 플랫폼** (2023.09.20 ~ 2023.11.24)  
-- **설명:** QR 기반 교내 우산 공유 서비스  
-   <details>
-     <summary>역할</summary>
-
-     - React Native **UI·UX 설계**  
-     - 아이디어 기획  
-
-   </details>
-
----
-
-### 🖥️ 백엔드
-1. **모의투자 프로젝트** (2025.05.15 ~ 2025.07.30)  
-- **설명:** 가상 화폐로 실제 투자처럼 연습할 수 있는 모의투자 서비스  
-   <details>
-     <summary>역할</summary>
-
-     - **한국투자 OPEN API 연동**  
-     - **환율 API 연동**  
-     - 장 시작 ~ 마감까지 실시간 데이터 1분 100회 제한 고려하여 1분 60회 **WebSocket 전송**  
-     - 장 마감시 1일 단위로 주식 가격 저장
-   </details> 
-       
 ## 🏆 수상 경력
 
 - **2025.09** | 2025년 KB IT's Your Life 해커톤 - 장려상
